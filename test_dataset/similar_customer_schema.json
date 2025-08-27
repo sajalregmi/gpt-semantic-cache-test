@@ -1,0 +1,3019 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "similar_customer.json",
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "sajal regmi"
+    },
+    {
+      "@type": "Person",
+      "name": "chetan phakami pun"
+    }
+  ],
+  "dateModified": "2025-08-27T06:18:01Z",
+  "numberOfItems": 500,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I reset my account credentials?",
+      "text": "How do I reset my account credentials?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow if I can't remember my login details?",
+      "text": "What steps should I follow if I can't remember my login details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you assist me in retrieving my username?",
+      "text": "Can you assist me in retrieving my username?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the process for updating my password?",
+      "text": "What’s the process for updating my password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find the option to modify my password?",
+      "text": "Where can I find the option to modify my password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my password reset link has expired?",
+      "text": "What should I do if my password reset link has expired?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I modify my payment information?",
+      "text": "How do I modify my payment information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I alter my billing details?",
+      "text": "Where can I alter my billing details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I replace the credit card associated with my account?",
+      "text": "Can I replace the credit card associated with my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the procedure for unsubscribing from a service?",
+      "text": "What’s the procedure for unsubscribing from a service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I terminate my subscription?",
+      "text": "How can I terminate my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to freeze my subscription temporarily?",
+      "text": "Is it possible to freeze my subscription temporarily?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to do to remove my account permanently?",
+      "text": "What do I need to do to remove my account permanently?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I recover a deleted account?",
+      "text": "How can I recover a deleted account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check the progress of my order?",
+      "text": "How do I check the progress of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I verify information on my recent purchases?",
+      "text": "Where can I verify information on my recent purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you help me find the shipping status of my order?",
+      "text": "Can you help me find the shipping status of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the ways to initiate a product return?",
+      "text": "What are the ways to initiate a product return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I return something that I bought?",
+      "text": "Can I return something that I bought?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process to start a product return?",
+      "text": "What is the process to start a product return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to receive a refund after returning an item?",
+      "text": "How long does it take to receive a refund after returning an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the typical timeframe for processing a refund?",
+      "text": "What’s the typical timeframe for processing a refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When can I expect my money back after returning goods?",
+      "text": "When can I expect my money back after returning goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I alter my shipping address post-order?",
+      "text": "Can I alter my shipping address post-order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I update my shipping destination?",
+      "text": "How can I update my shipping destination?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I allowed to change my delivery address after placing an order?",
+      "text": "Am I allowed to change my delivery address after placing an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I apply a coupon code during checkout?",
+      "text": "How do I apply a coupon code during checkout?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I input my discount code?",
+      "text": "Where do I input my discount code?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to use a promo code on markdown items?",
+      "text": "Is it possible to use a promo code on markdown items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What types of payment do you accept?",
+      "text": "What types of payment do you accept?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you allow payment through PayPal?",
+      "text": "Do you allow payment through PayPal?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to use Apple Pay while checking out?",
+      "text": "Is it possible to use Apple Pay while checking out?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Who can I reach out to for customer support?",
+      "text": "Who can I reach out to for customer support?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I obtain contact information for customer service?",
+      "text": "Where do I obtain contact information for customer service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a live chat option available for assistance?",
+      "text": "Is there a live chat option available for assistance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the method to opt out of marketing communication?",
+      "text": "What is the method to opt out of marketing communication?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I stop receiving promotional messages?",
+      "text": "Where can I stop receiving promotional messages?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I decline promotional email communications?",
+      "text": "How do I decline promotional email communications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide complimentary shipping options?",
+      "text": "Do you provide complimentary shipping options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum amount needed to qualify for free shipping?",
+      "text": "What is the minimum amount needed to qualify for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a shipping charge for smaller orders?",
+      "text": "Is there a shipping charge for smaller orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the steps to withdraw my order?",
+      "text": "What are the steps to withdraw my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I cancel my recent purchase?",
+      "text": "Can I cancel my recent purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I stop an order that I just made?",
+      "text": "How do I stop an order that I just made?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer expedited shipment options?",
+      "text": "Do you offer expedited shipment options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the way to select faster shipping?",
+      "text": "What is the way to select faster shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is next-day delivery an option?",
+      "text": "Is next-day delivery an option?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your returns policy?",
+      "text": "What is your returns policy?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I send back a product if I'm dissatisfied?",
+      "text": "Can I send back a product if I'm dissatisfied?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are returns possible if I have a change of heart?",
+      "text": "Are returns possible if I have a change of heart?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Who do I contact for large order inquiries?",
+      "text": "Who do I contact for large order inquiries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are discounts available for bulk purchases?",
+      "text": "Are discounts available for bulk purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Whom should I consult for bulk order questions?",
+      "text": "Whom should I consult for bulk order questions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I locate your warranty information?",
+      "text": "Where can I locate your warranty information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a warranty available for your products?",
+      "text": "Is there a warranty available for your products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What type of warranty is associated with your items?",
+      "text": "What type of warranty is associated with your items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify if my product is under warranty?",
+      "text": "How can I verify if my product is under warranty?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I eligible for a replacement if my product is faulty?",
+      "text": "Am I eligible for a replacement if my product is faulty?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my account gets locked?",
+      "text": "What should I do if my account gets locked?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I validate my identity to recover my account?",
+      "text": "How can I validate my identity to recover my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure to enable two-factor authentication?",
+      "text": "What is the procedure to enable two-factor authentication?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I permitted to update the email linked to my account?",
+      "text": "Am I permitted to update the email linked to my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I access my purchase records?",
+      "text": "How do I access my purchase records?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions should I take if I suspect fraudulent activity?",
+      "text": "What actions should I take if I suspect fraudulent activity?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I view my transaction details?",
+      "text": "Where can I view my transaction details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I revise my profile information?",
+      "text": "How do I revise my profile information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need in order to change my address?",
+      "text": "What do I need in order to change my address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I update my phone contact on my account?",
+      "text": "How can I update my phone contact on my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to store multiple shipping addresses?",
+      "text": "Is it possible to store multiple shipping addresses?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check my saved payment methods?",
+      "text": "How can I check my saved payment methods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What occurs if I don't meet the payment deadline for my subscription?",
+      "text": "What occurs if I don't meet the payment deadline for my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I reinstate my canceled subscription?",
+      "text": "How do I reinstate my canceled subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I reclaim a refund if I applied a discount?",
+      "text": "Can I reclaim a refund if I applied a discount?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "In what way are refunds handled?",
+      "text": "In what way are refunds handled?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to package items for returns?",
+      "text": "What is the best way to package items for returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I share feedback regarding my shopping experience?",
+      "text": "How can I share feedback regarding my shopping experience?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I able to set up automatic billing for my subscription?",
+      "text": "Am I able to set up automatic billing for my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I redeem a gift voucher?",
+      "text": "How do I redeem a gift voucher?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your stance on price adjustments?",
+      "text": "What is your stance on price adjustments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to make an order without an account?",
+      "text": "Is it possible to make an order without an account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there restrictions on the number of discount coupons I can use?",
+      "text": "Are there restrictions on the number of discount coupons I can use?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my promotional code fails to work?",
+      "text": "What do I do if my promotional code fails to work?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I access my account from various devices?",
+      "text": "Can I access my account from various devices?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I view my digital purchases?",
+      "text": "How do I view my digital purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When is the cutoff for returning an item for a full refund?",
+      "text": "When is the cutoff for returning an item for a full refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What types of products cannot be returned?",
+      "text": "What types of products cannot be returned?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I return a gift I received?",
+      "text": "Can I return a gift I received?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I monitor my return shipment?",
+      "text": "How do I monitor my return shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How are shipping charges determined?",
+      "text": "How are shipping charges determined?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a refund if my order doesn't show up?",
+      "text": "Can I get a refund if my order doesn't show up?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you facilitate international shipments?",
+      "text": "Do you facilitate international shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What shipping companies do you collaborate with?",
+      "text": "What shipping companies do you collaborate with?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my password if I can’t access my email?",
+      "text": "How do I change my password if I can’t access my email?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find the expected delivery date for my order?",
+      "text": "Where can I find the expected delivery date for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are any membership costs associated with your service?",
+      "text": "Are any membership costs associated with your service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I opt into notifications for restocking?",
+      "text": "How can I opt into notifications for restocking?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide a mobile application?",
+      "text": "Do you provide a mobile application?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I utilize my loyalty points?",
+      "text": "How do I utilize my loyalty points?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits do loyal customers receive?",
+      "text": "What benefits do loyal customers receive?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I transfer my loyalty points to another customer?",
+      "text": "Can I transfer my loyalty points to another customer?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I get a damaged product?",
+      "text": "What do I do if I get a damaged product?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I reach customer service for pressing concerns?",
+      "text": "How do I reach customer service for pressing concerns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I leave a review for a specific item?",
+      "text": "How do I leave a review for a specific item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What factors determine your featured products?",
+      "text": "What factors determine your featured products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How often do you replenish your product inventory?",
+      "text": "How often do you replenish your product inventory?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize the products I’ve bought?",
+      "text": "Can I customize the products I’ve bought?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do you maintain product quality?",
+      "text": "How do you maintain product quality?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the measurements for a certain item?",
+      "text": "What are the measurements for a certain item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I determine if a product is in stock?",
+      "text": "How can I determine if a product is in stock?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What coverage do your electronics have under warranty?",
+      "text": "What coverage do your electronics have under warranty?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a referral program available?",
+      "text": "Is there a referral program available?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I recommend a friend?",
+      "text": "How do I recommend a friend?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What advantages do I get for referring someone?",
+      "text": "What advantages do I get for referring someone?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I get the wrong item?",
+      "text": "What steps should I take if I get the wrong item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to change the payment method post-order?",
+      "text": "Is it possible to change the payment method post-order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I retrieve my username?",
+      "text": "How do I retrieve my username?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you guide me through the purchasing process?",
+      "text": "Can you guide me through the purchasing process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my order was successfully placed?",
+      "text": "How do I know if my order was successfully placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the method for adding items to my registry?",
+      "text": "What’s the method for adding items to my registry?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where is my registry located?",
+      "text": "Where is my registry located?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you remove entries from my registry?",
+      "text": "Can you remove entries from my registry?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I select options for email notifications?",
+      "text": "How do I select options for email notifications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to enter my credit card details on your site?",
+      "text": "Is it safe to enter my credit card details on your site?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I modify my personal information after purchasing?",
+      "text": "Can I modify my personal information after purchasing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order is incomplete?",
+      "text": "What should I do if my order is incomplete?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I request special wrapping for a gift?",
+      "text": "Can I request special wrapping for a gift?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are your operating hours for customer support?",
+      "text": "What are your operating hours for customer support?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What occurs if a sale item is not available?",
+      "text": "What occurs if a sale item is not available?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I place a large order via phone?",
+      "text": "Can I place a large order via phone?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I locate user manuals for your offerings?",
+      "text": "Where can I locate user manuals for your offerings?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify if a product is environmentally friendly?",
+      "text": "How can I verify if a product is environmentally friendly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any upcoming seasonal deals?",
+      "text": "Are there any upcoming seasonal deals?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I find a cheaper product elsewhere?",
+      "text": "What should I do if I find a cheaper product elsewhere?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I add a message to my order?",
+      "text": "How do I add a message to my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I be notified when a product is restocked?",
+      "text": "Can I be notified when a product is restocked?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do you handle customer complaints?",
+      "text": "How do you handle customer complaints?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures do you have for addressing consumer issues?",
+      "text": "What procedures do you have for addressing consumer issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I change my communication settings?",
+      "text": "How can I change my communication settings?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the necessary steps if I suspect my account has been compromised?",
+      "text": "What are the necessary steps if I suspect my account has been compromised?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I unsubscribe from text alerts?",
+      "text": "How do I unsubscribe from text alerts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the size range of your apparel?",
+      "text": "What’s the size range of your apparel?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are your hours of operation for product returns?",
+      "text": "What are your hours of operation for product returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a product I want is sold out?",
+      "text": "What happens if a product I want is sold out?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine multiple orders into one payment?",
+      "text": "Can I combine multiple orders into one payment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find information on your warranty policies?",
+      "text": "Where can I find information on your warranty policies?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I double-check product details?",
+      "text": "How can I double-check product details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Understanding your policies on order handling?",
+      "text": "Understanding your policies on order handling?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my items arrive late?",
+      "text": "What do I do if my items arrive late?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How will I be notified of price changes?",
+      "text": "How will I be notified of price changes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find the specifications of a product?",
+      "text": "Where can I find the specifications of a product?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report issues with product functionality?",
+      "text": "How do I report issues with product functionality?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I ask for special delivery options?",
+      "text": "Can I ask for special delivery options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the status of my feedback submission?",
+      "text": "How can I check the status of my feedback submission?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the protocol for addressing missing items?",
+      "text": "What is the protocol for addressing missing items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the easiest way to get product support?",
+      "text": "What’s the easiest way to get product support?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I access product details online?",
+      "text": "How do I access product details online?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I review your company's ethical practices?",
+      "text": "Where can I review your company's ethical practices?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order details are unclear?",
+      "text": "What do I do if my order details are unclear?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I report suspicious activity on the platform?",
+      "text": "How can I report suspicious activity on the platform?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines do you follow for user feedback?",
+      "text": "What guidelines do you follow for user feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage payment options in my account?",
+      "text": "How do I manage payment options in my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find information about your referral program?",
+      "text": "Where can I find information about your referral program?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check my account point balance?",
+      "text": "How do I check my account point balance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I modify my gift selection after purchase?",
+      "text": "Can I modify my gift selection after purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for supporting your services?",
+      "text": "What options do I have for supporting your services?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I edit my payment preferences after my order?",
+      "text": "Can I edit my payment preferences after my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I access your browsing history?",
+      "text": "Where do I access your browsing history?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I schedule a delivery for a specific date?",
+      "text": "Can I schedule a delivery for a specific date?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check the appropriateness of a return item?",
+      "text": "How do I check the appropriateness of a return item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find guidelines for bulk selection?",
+      "text": "Where can I find guidelines for bulk selection?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check my points for rewards?",
+      "text": "How can I check my points for rewards?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I consider before making a return?",
+      "text": "What should I consider before making a return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive updates about upcoming sales?",
+      "text": "How do I receive updates about upcoming sales?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to provide for order confirmations?",
+      "text": "What do I need to provide for order confirmations?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage notifications for low stock items?",
+      "text": "How do I manage notifications for low stock items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find updates on new product lines?",
+      "text": "Where can I find updates on new product lines?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my gift card balance?",
+      "text": "How do I verify my gift card balance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I refer multiple friends for rewards?",
+      "text": "Can I refer multiple friends for rewards?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to switch my account type?",
+      "text": "What steps do I take to switch my account type?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are my points transferable to someone else's account?",
+      "text": "Are my points transferable to someone else's account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I check the history of my feedback?",
+      "text": "Where can I check the history of my feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I troubleshoot issues with my digital purchase?",
+      "text": "How do I troubleshoot issues with my digital purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I access customer testimonials on your website?",
+      "text": "Can I access customer testimonials on your website?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I view my recent purchase activity?",
+      "text": "How do I view my recent purchase activity?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find a list of denied transactions?",
+      "text": "Where can I find a list of denied transactions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What reasons are typically given for return denials?",
+      "text": "What reasons are typically given for return denials?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I get in touch with support for private concerns?",
+      "text": "How can I get in touch with support for private concerns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my promotional discount isn't applying?",
+      "text": "What should I do if my promotional discount isn't applying?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I view details on handling returns?",
+      "text": "Where can I view details on handling returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I customize notifications for my orders?",
+      "text": "How do I customize notifications for my orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What requirements do I need to meet for feedback?",
+      "text": "What requirements do I need to meet for feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I submit a product improvement suggestion?",
+      "text": "Where do I submit a product improvement suggestion?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How often do you update product descriptions?",
+      "text": "How often do you update product descriptions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for reviewing products?",
+      "text": "What options do I have for reviewing products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive alerts about my favorite products?",
+      "text": "Can I receive alerts about my favorite products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I resolve issues with digital downloads?",
+      "text": "How do I resolve issues with digital downloads?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn about your payment policies?",
+      "text": "Where can I learn about your payment policies?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions do I take if my order is wrong?",
+      "text": "What actions do I take if my order is wrong?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prevent double billing for subscriptions?",
+      "text": "How do I prevent double billing for subscriptions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn more about your return options?",
+      "text": "Where can I learn more about your return options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm my payment is secure?",
+      "text": "How can I confirm my payment is secure?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a product I've ordered is discontinued?",
+      "text": "What happens if a product I've ordered is discontinued?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find details about shipping rates?",
+      "text": "Where can I find details about shipping rates?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure I’m receiving the best prices?",
+      "text": "How do I ensure I’m receiving the best prices?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s your approach to damaged items during delivery?",
+      "text": "What’s your approach to damaged items during delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my delivery instructions?",
+      "text": "How do I change my delivery instructions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I access product usage tips?",
+      "text": "Where can I access product usage tips?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order hasn’t been shipped yet?",
+      "text": "What should I do if my order hasn’t been shipped yet?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I change the payment method for my purchase?",
+      "text": "How can I change the payment method for my purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to claim a warranty?",
+      "text": "What do I need to claim a warranty?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find current promotions on your site?",
+      "text": "Where do I find current promotions on your site?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I view my order status?",
+      "text": "How do I view my order status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find help for using the mobile app?",
+      "text": "Where can I find help for using the mobile app?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my email notifications preferences?",
+      "text": "How do I change my email notifications preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I check if an item is eligible for return?",
+      "text": "Can I check if an item is eligible for return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I provide customer feedback?",
+      "text": "How do I provide customer feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find your most recent product releases?",
+      "text": "Where do I find your most recent product releases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I address issues with an incorrect bill?",
+      "text": "How do I address issues with an incorrect bill?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What information do I need to retrieve my username?",
+      "text": "What information do I need to retrieve my username?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I learn from your product reviews?",
+      "text": "Can I learn from your product reviews?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I monitor the delivery of my gifts?",
+      "text": "How can I monitor the delivery of my gifts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I check for gift return policies?",
+      "text": "Where do I check for gift return policies?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to know about promotional offers?",
+      "text": "What do I need to know about promotional offers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there conditions for receiving bulk discounts?",
+      "text": "Are there conditions for receiving bulk discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify the availability of an item?",
+      "text": "How can I verify the availability of an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to know about using discount codes?",
+      "text": "What do I need to know about using discount codes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find resources for resolving delivery issues?",
+      "text": "Where can I find resources for resolving delivery issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to confirm my payment method?",
+      "text": "What steps do I take to confirm my payment method?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I address complaints related to my order?",
+      "text": "How do I address complaints related to my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What types of product support do you offer?",
+      "text": "What types of product support do you offer?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find your customer service contact details?",
+      "text": "How do I find your customer service contact details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get updates about new features on the app?",
+      "text": "Where can I get updates about new features on the app?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I update my shipping address for all future orders?",
+      "text": "How do I update my shipping address for all future orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I see my order history?",
+      "text": "Where can I see my order history?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are your products environmentally friendly?",
+      "text": "Are your products environmentally friendly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find customer ratings for products?",
+      "text": "How do I find customer ratings for products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my item doesn't fit?",
+      "text": "What should I do if my item doesn't fit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find seasonal promotions?",
+      "text": "Where can I find seasonal promotions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I get updates regarding upcoming sales?",
+      "text": "How can I get updates regarding upcoming sales?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I received the wrong item?",
+      "text": "What do I do if I received the wrong item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my account's security settings?",
+      "text": "How do I verify my account's security settings?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any purchase limits for items on sale?",
+      "text": "Are there any purchase limits for items on sale?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find information on your clearance items?",
+      "text": "How do I find information on your clearance items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I check for updated prices on products?",
+      "text": "Can I check for updated prices on products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find information on your bulk orders?",
+      "text": "Where can I find information on your bulk orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take to manage my account?",
+      "text": "What steps should I take to manage my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check for upcoming kickstarter offers?",
+      "text": "How do I check for upcoming kickstarter offers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find pricing for bulk shipping?",
+      "text": "Where can I find pricing for bulk shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I browse products without creating an account?",
+      "text": "Can I browse products without creating an account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I encounter technical difficulties during my order?",
+      "text": "What do I do if I encounter technical difficulties during my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find details on your price match policy?",
+      "text": "Where can I find details on your price match policy?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure I’m receiving promotional messages?",
+      "text": "How do I ensure I’m receiving promotional messages?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the best way to contact customer service?",
+      "text": "What’s the best way to contact customer service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I view the details of my account subscription?",
+      "text": "How can I view the details of my account subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check for when verifying order details?",
+      "text": "What should I check for when verifying order details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I opt in for communication regarding sales?",
+      "text": "How do I opt in for communication regarding sales?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find information about your shipping options?",
+      "text": "Where do I find information about your shipping options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I keep in mind regarding product warranties?",
+      "text": "What should I keep in mind regarding product warranties?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I save my favorite items for later?",
+      "text": "How do I save my favorite items for later?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive alerts when my ordered product is restocked?",
+      "text": "Can I receive alerts when my ordered product is restocked?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find answers to frequently asked questions?",
+      "text": "Where can I find answers to frequently asked questions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if the product I ordered is out of stock?",
+      "text": "What happens if the product I ordered is out of stock?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm delivery of my items?",
+      "text": "How do I confirm delivery of my items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn about your product exchange policies?",
+      "text": "Where can I learn about your product exchange policies?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order arrives damaged?",
+      "text": "What should I do if my order arrives damaged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow for returning subscriptions?",
+      "text": "What steps should I follow for returning subscriptions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my email preferences are set?",
+      "text": "How can I ensure my email preferences are set?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find detailed descriptions of your services?",
+      "text": "Where can I find detailed descriptions of your services?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order starts moving but doesn’t arrive?",
+      "text": "What do I do if my order starts moving but doesn’t arrive?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle multiple subscriptions from different accounts?",
+      "text": "How do I handle multiple subscriptions from different accounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I submit queries regarding bulk transactions?",
+      "text": "Where do I submit queries regarding bulk transactions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What strategies can I employ for managing my orders?",
+      "text": "What strategies can I employ for managing my orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find details on your corporate culture?",
+      "text": "Where can I find details on your corporate culture?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive notifications for promotions?",
+      "text": "How do I receive notifications for promotions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What methods do you provide for tracking my purchases?",
+      "text": "What methods do you provide for tracking my purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make adjustments to my order information?",
+      "text": "How do I make adjustments to my order information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions should I take if I receive a product that does not match its description?",
+      "text": "What actions should I take if I receive a product that does not match its description?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find guidelines for evaluating product quality?",
+      "text": "Where can I find guidelines for evaluating product quality?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What features do you offer for improving shopping experiences?",
+      "text": "What features do you offer for improving shopping experiences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I stay informed about new arrivals?",
+      "text": "How can I stay informed about new arrivals?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about returns for personalized items?",
+      "text": "What should I know about returns for personalized items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I opt for digital delivery instead of physical shipment?",
+      "text": "Can I opt for digital delivery instead of physical shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm my order delivery status?",
+      "text": "How can I confirm my order delivery status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I read the latest news about product launches?",
+      "text": "Where can I read the latest news about product launches?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation is required for processing returns?",
+      "text": "What documentation is required for processing returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my personal details in my account?",
+      "text": "How do I change my personal details in my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive notifications for product reviews and ratings?",
+      "text": "Can I receive notifications for product reviews and ratings?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How should I package an item I wish to return?",
+      "text": "How should I package an item I wish to return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find detailed warranty information?",
+      "text": "Where can I find detailed warranty information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check before submitting feedback?",
+      "text": "What should I check before submitting feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find product safety ratings?",
+      "text": "How do I find product safety ratings?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for expedited shipping?",
+      "text": "What options do I have for expedited shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I learn about payment security measures?",
+      "text": "Where do I learn about payment security measures?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure I'm enrolled for sales notifications?",
+      "text": "How do I ensure I'm enrolled for sales notifications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I need to take if my subscription fails?",
+      "text": "What steps do I need to take if my subscription fails?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I improve my reviews to be considered helpful?",
+      "text": "How can I improve my reviews to be considered helpful?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find customer support for billing?",
+      "text": "Where do I find customer support for billing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I need to take for managing my wishlist?",
+      "text": "What steps do I need to take for managing my wishlist?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I log complaints regarding my order status?",
+      "text": "How do I log complaints regarding my order status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I preview the items in my order before finalizing?",
+      "text": "Can I preview the items in my order before finalizing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check my account for recent activities?",
+      "text": "How do I check my account for recent activities?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What benefits do I get for being a loyal customer?",
+      "text": "What benefits do I get for being a loyal customer?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I report issues with delivery services?",
+      "text": "Where can I report issues with delivery services?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my discount code will apply?",
+      "text": "How do I know if my discount code will apply?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my application for a discount is rejected?",
+      "text": "What should I do if my application for a discount is rejected?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn about your company's sustainability initiatives?",
+      "text": "Where can I learn about your company's sustainability initiatives?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I easily track my purchase preferences?",
+      "text": "Can I easily track my purchase preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow the status of a warranty claim?",
+      "text": "How do I follow the status of a warranty claim?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for changing my account password?",
+      "text": "What is the process for changing my account password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can my gift card be used multiple times?",
+      "text": "Can my gift card be used multiple times?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines do you have for submitting reviews?",
+      "text": "What guidelines do you have for submitting reviews?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I report fraud related to my account?",
+      "text": "Where should I report fraud related to my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I activate a new gift card?",
+      "text": "How do I activate a new gift card?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I check the availability of products?",
+      "text": "Where can I check the availability of products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What information should I have on hand for warranty claims?",
+      "text": "What information should I have on hand for warranty claims?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I select items to qualify for free shipping?",
+      "text": "How do I select items to qualify for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of customer support do you have for products?",
+      "text": "What kind of customer support do you have for products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I navigate your loyalty program options?",
+      "text": "How do I navigate your loyalty program options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I inquire about items not listed on your site?",
+      "text": "How can I inquire about items not listed on your site?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the process for getting a refund?",
+      "text": "What’s the process for getting a refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find more information about your clearance items?",
+      "text": "Where can I find more information about your clearance items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I reset my loyalty program account?",
+      "text": "How do I reset my loyalty program account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my delivery address for my subscription?",
+      "text": "Can I change my delivery address for my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I provide my insights on customer service?",
+      "text": "How can I provide my insights on customer service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I receive a refund too late?",
+      "text": "What do I do if I receive a refund too late?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I inquire if a product comes in different sizes?",
+      "text": "Can I inquire if a product comes in different sizes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find customer service working hours?",
+      "text": "Where do I find customer service working hours?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I maintain my loyalty points?",
+      "text": "How do I maintain my loyalty points?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a product has been used but is still faulty?",
+      "text": "What happens if a product has been used but is still faulty?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my email address is linked to an account?",
+      "text": "How do I check if my email address is linked to an account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What support options do you provide for technical issues?",
+      "text": "What support options do you provide for technical issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about purchasing gift cards?",
+      "text": "How do I inquire about purchasing gift cards?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn about your sustainability certifications?",
+      "text": "Where can I learn about your sustainability certifications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I don’t receive confirmation of my order?",
+      "text": "What should I do if I don’t receive confirmation of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I request a replacement for a faulty product?",
+      "text": "How can I request a replacement for a faulty product?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I inquire about special shipping rates?",
+      "text": "Where do I inquire about special shipping rates?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I need to follow for packing items for return?",
+      "text": "What steps do I need to follow for packing items for return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my account remains secure?",
+      "text": "How can I ensure my account remains secure?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there options for side-by-side product comparisons?",
+      "text": "Are there options for side-by-side product comparisons?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find a complete list of items you offer?",
+      "text": "How do I find a complete list of items you offer?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I report damages sustained during shipping?",
+      "text": "Where do I report damages sustained during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I monitor inventory changes directly?",
+      "text": "Can I monitor inventory changes directly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What methods do you use for managing customer inquiries?",
+      "text": "What methods do you use for managing customer inquiries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I retrieve a forgotten password?",
+      "text": "How can I retrieve a forgotten password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are your guidelines for using promotion codes?",
+      "text": "What are your guidelines for using promotion codes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I check if items are eligible for returns?",
+      "text": "Where can I check if items are eligible for returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my items are properly labeled for returns?",
+      "text": "How can I ensure my items are properly labeled for returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find seasonal discounts?",
+      "text": "Where can I find seasonal discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order is delayed in transit?",
+      "text": "What do I do if my order is delayed in transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I verify the authenticity of items before purchase?",
+      "text": "Can I verify the authenticity of items before purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take to access member-only discounts?",
+      "text": "What steps should I take to access member-only discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I submit problems related to my refund?",
+      "text": "Where do I submit problems related to my refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track my points accrued through the loyalty program?",
+      "text": "How do I track my points accrued through the loyalty program?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I check the status of my order for accuracy?",
+      "text": "Where can I check the status of my order for accuracy?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What follows after I submit a product review?",
+      "text": "What follows after I submit a product review?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I retrieve the secret code for my discount?",
+      "text": "How do I retrieve the secret code for my discount?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I learn about your corporate social responsibility?",
+      "text": "Where can I learn about your corporate social responsibility?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to know about digital content returns?",
+      "text": "What do I need to know about digital content returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive alerts for discontinued products?",
+      "text": "Can I receive alerts for discontinued products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my purchases are aligned with my preferences?",
+      "text": "How can I ensure my purchases are aligned with my preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Which methods do you recommend for hassle-free returns?",
+      "text": "Which methods do you recommend for hassle-free returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I find details regarding promotional codes?",
+      "text": "Where do I find details regarding promotional codes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if Iaccidentally enter the wrong shipping address?",
+      "text": "What happens if Iaccidentally enter the wrong shipping address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my account email address?",
+      "text": "How do I change my account email address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I can't remember my username?",
+      "text": "What should I do if I can't remember my username?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you walk me through the process of resetting my password?",
+      "text": "Can you walk me through the process of resetting my password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find the option to recover my password?",
+      "text": "Where can I find the option to recover my password?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if the reset email doesn't arrive?",
+      "text": "What steps should I take if the reset email doesn't arrive?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I update my payment method in my profile?",
+      "text": "How can I update my payment method in my profile?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the procedures to change billing details?",
+      "text": "What are the procedures to change billing details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I switch the payment card linked to my account?",
+      "text": "Can I switch the payment card linked to my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I follow to cancel my subscription?",
+      "text": "What steps do I follow to cancel my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a way to temporarily pause my subscription service?",
+      "text": "Is there a way to temporarily pause my subscription service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I want to permanently delete my account?",
+      "text": "What should I do if I want to permanently delete my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I retrieve a deleted user account?",
+      "text": "How can I retrieve a deleted user account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I check if my order has shipped?",
+      "text": "Where do I check if my order has shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track the delivery of my recent orders?",
+      "text": "How can I track the delivery of my recent orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for checking order status?",
+      "text": "What options do I have for checking order status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I return a product that I didn’t like?",
+      "text": "How do I return a product that I didn’t like?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I send back an item within a specified time frame?",
+      "text": "Can I send back an item within a specified time frame?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure to initiate a return?",
+      "text": "What is the procedure to initiate a return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it generally take to get a refund?",
+      "text": "How long does it generally take to get a refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When can I expect my refund after returning an item?",
+      "text": "When can I expect my refund after returning an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the typical process for refund processing?",
+      "text": "What’s the typical process for refund processing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the shipping address after I place my order?",
+      "text": "Can I change the shipping address after I place my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I correct my shipping information?",
+      "text": "How can I correct my shipping information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures should I follow to update my delivery address?",
+      "text": "What procedures should I follow to update my delivery address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I use a promotional code at checkout?",
+      "text": "How do I use a promotional code at checkout?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to enter a discount code?",
+      "text": "What steps do I take to enter a discount code?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it allowed to apply discounts on sale items?",
+      "text": "Is it allowed to apply discounts on sale items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What payment options can I use to buy products?",
+      "text": "What payment options can I use to buy products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you accept Venmo among your payment methods?",
+      "text": "Do you accept Venmo among your payment methods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I utilize Google Pay for checking out?",
+      "text": "Can I utilize Google Pay for checking out?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ask for help regarding my purchase?",
+      "text": "How do I ask for help regarding my purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find customer support contact information?",
+      "text": "Where can I find customer support contact information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to chat with a live representative for assistance?",
+      "text": "Is it possible to chat with a live representative for assistance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I opt out of marketing messages?",
+      "text": "How can I opt out of marketing messages?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I stop receiving promotional notifications?",
+      "text": "Where can I stop receiving promotional notifications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take to unsubscribe from marketing emails?",
+      "text": "What steps should I take to unsubscribe from marketing emails?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide any discounts for orders over a certain amount?",
+      "text": "Do you provide any discounts for orders over a certain amount?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the minimum purchase required to qualify for free shipping?",
+      "text": "What’s the minimum purchase required to qualify for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a fee for shipping small orders?",
+      "text": "Is there a fee for shipping small orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I initiate a cancellation for my order?",
+      "text": "How do I initiate a cancellation for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What will happen if I cancel my most recent order?",
+      "text": "What will happen if I cancel my most recent order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to stop the processing of an order I just made?",
+      "text": "Is it possible to stop the processing of an order I just made?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I arrange for express shipping on my order?",
+      "text": "Can I arrange for express shipping on my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request priority shipping?",
+      "text": "How do I request priority shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is next-day delivery an option that you provide?",
+      "text": "Is next-day delivery an option that you provide?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the stipulations of your return policy?",
+      "text": "What are the stipulations of your return policy?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I return an item that does not meet my expectations?",
+      "text": "Can I return an item that does not meet my expectations?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are returns permitted if I change my mind?",
+      "text": "Are returns permitted if I change my mind?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact customer support for bulk purchases?",
+      "text": "How do I contact customer support for bulk purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer price adjustments for large quantity purchases?",
+      "text": "Do you offer price adjustments for large quantity purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Who should I contact for inquiries about bulk deals?",
+      "text": "Who should I contact for inquiries about bulk deals?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find information about warranties on your products?",
+      "text": "Where can I find information about warranties on your products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a warranty available for each item you sell?",
+      "text": "Is there a warranty available for each item you sell?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What type of warranty is given with your electronics?",
+      "text": "What type of warranty is given with your electronics?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the warranty status of my products?",
+      "text": "How can I check the warranty status of my products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I eligible for a replacement if my device malfunctions?",
+      "text": "Am I eligible for a replacement if my device malfunctions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures should I follow if my account becomes locked?",
+      "text": "What procedures should I follow if my account becomes locked?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm my identity to regain access to my account?",
+      "text": "How can I confirm my identity to regain access to my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to activate two-factor verification?",
+      "text": "What steps do I take to activate two-factor verification?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I allowed to change my registered email contact?",
+      "text": "Am I allowed to change my registered email contact?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I access my purchasing records?",
+      "text": "How do I access my purchasing records?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions should I take if I suspect fraudulent charges?",
+      "text": "What actions should I take if I suspect fraudulent charges?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I view my order transaction reports?",
+      "text": "How can I view my order transaction reports?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I edit my account's personal information?",
+      "text": "How do I edit my account's personal information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What must I provide in order to make a change to my shipping address?",
+      "text": "What must I provide in order to make a change to my shipping address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I update my mobile contact number in my account?",
+      "text": "How can I update my mobile contact number in my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I save multiple delivery addresses to my profile?",
+      "text": "Can I save multiple delivery addresses to my profile?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I access my saved payment methods online?",
+      "text": "How do I access my saved payment methods online?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What occurs if I miss the payment due date for my subscription?",
+      "text": "What occurs if I miss the payment due date for my subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I re-activate a previously canceled subscription?",
+      "text": "How do I re-activate a previously canceled subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I eligible for a refund even if I applied a discount?",
+      "text": "Am I eligible for a refund even if I applied a discount?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How is the refund process managed on your site?",
+      "text": "How is the refund process managed on your site?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the most effective way to prepare an item for return?",
+      "text": "What’s the most effective way to prepare an item for return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I submit feedback regarding my shopping experience?",
+      "text": "How can I submit feedback regarding my shopping experience?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I set up automatic billing for my recurring order?",
+      "text": "Can I set up automatic billing for my recurring order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I apply a gift card towards my order?",
+      "text": "How do I apply a gift card towards my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your policy on adjustments of listed prices?",
+      "text": "What is your policy on adjustments of listed prices?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to place an order without registering an account?",
+      "text": "Is it possible to place an order without registering an account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any limits on the number of promotional codes I can utilize?",
+      "text": "Are there any limits on the number of promotional codes I can utilize?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my coupon code is not accepted during checkout?",
+      "text": "What should I do if my coupon code is not accepted during checkout?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I access my account from different devices without issues?",
+      "text": "Can I access my account from different devices without issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I recover my digital purchases?",
+      "text": "How do I recover my digital purchases?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When do items need to be returned in order to receive a full refund?",
+      "text": "When do items need to be returned in order to receive a full refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What types of items are exempt from return policies?",
+      "text": "What types of items are exempt from return policies?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I allowed to exchange a gift that I received?",
+      "text": "Am I allowed to exchange a gift that I received?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track the shipment of my return?",
+      "text": "How do I track the shipment of my return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What factors contribute to the calculation of shipping costs?",
+      "text": "What factors contribute to the calculation of shipping costs?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I eligible for a refund if my order fails to arrive?",
+      "text": "Am I eligible for a refund if my order fails to arrive?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide international shipping to all countries?",
+      "text": "Do you provide international shipping to all countries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Which shipping carriers do you partner with?",
+      "text": "Which shipping carriers do you partner with?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change my password if I have no access to my email?",
+      "text": "How do I change my password if I have no access to my email?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I check the expected date of delivery for my order?",
+      "text": "Where can I check the expected date of delivery for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any costs associated with membership in your services?",
+      "text": "Are there any costs associated with membership in your services?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I sign up to be notified when items come back in stock?",
+      "text": "How can I sign up to be notified when items come back in stock?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have a customized mobile application?",
+      "text": "Do you have a customized mobile application?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I redeem my accumulated loyalty points?",
+      "text": "How can I redeem my accumulated loyalty points?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What rewards do you offer to repeat buyers?",
+      "text": "What rewards do you offer to repeat buyers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to transfer my loyalty points to another account?",
+      "text": "Is it possible to transfer my loyalty points to another account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I receive a defective item?",
+      "text": "What steps should I take if I receive a defective item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact customer service for immediate assistance?",
+      "text": "How do I contact customer service for immediate assistance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I submit a review for a product I purchased?",
+      "text": "How can I submit a review for a product I purchased?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What factors determine your chosen featured products?",
+      "text": "What factors determine your chosen featured products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How often do you refresh your inventory of products?",
+      "text": "How often do you refresh your inventory of products?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I personalize the products I order?",
+      "text": "Can I personalize the products I order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do you verify the quality of your goods?",
+      "text": "How do you verify the quality of your goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the dimensions of a particular product?",
+      "text": "What are the dimensions of a particular product?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the stock status on a specific item?",
+      "text": "How can I check the stock status on a specific item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What warranty options do you have for electronic devices?",
+      "text": "What warranty options do you have for electronic devices?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an affiliate program I can join?",
+      "text": "Is there an affiliate program I can join?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I refer a friend to your service?",
+      "text": "How do I refer a friend to your service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the incentives for referring someone new?",
+      "text": "What are the incentives for referring someone new?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if the item I ordered is incorrect?",
+      "text": "What should I do if the item I ordered is incorrect?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Am I able to amend the payment method after placing an order?",
+      "text": "Am I able to amend the payment method after placing an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I retrieve my username from my account?",
+      "text": "How do I retrieve my username from my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you guide me through the checkout process step-by-step?",
+      "text": "Can you guide me through the checkout process step-by-step?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my order has been processed correctly?",
+      "text": "How do I confirm that my order has been processed correctly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the way to add items to a saved list in my account?",
+      "text": "What’s the way to add items to a saved list in my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find my saved items list?",
+      "text": "Where can I find my saved items list?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can you remove specific products from my saved items?",
+      "text": "Can you remove specific products from my saved items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I set preferences for my communication from the site?",
+      "text": "How do I set preferences for my communication from the site?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to submit my credit card details on your platform?",
+      "text": "Is it safe to submit my credit card details on your platform?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I update my personal information after purchasing items?",
+      "text": "Can I update my personal information after purchasing items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if my order shows up partially?",
+      "text": "What steps do I take if my order shows up partially?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I make special requests for wrapping on my gifts?",
+      "text": "Can I make special requests for wrapping on my gifts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What hours do you operate for customer discussions?",
+      "text": "What hours do you operate for customer discussions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if an item that's on sale is no longer available?",
+      "text": "What happens if an item that's on sale is no longer available?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I make bulk purchases via telephone?",
+      "text": "Can I make bulk purchases via telephone?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find product manuals for things I bought?",
+      "text": "Where can I find product manuals for things I bought?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I determine if an item is eco-conscious?",
+      "text": "How can I determine if an item is eco-conscious?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Are there special seasonal deals approaching?",
+      "text": "Are there special seasonal deals approaching?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I find a better price elsewhere?",
+      "text": "What should I do if I find a better price elsewhere?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I include a special note with my order?",
+      "text": "How do I include a special note with my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I request to be informed when an item is restocked?",
+      "text": "Can I request to be informed when an item is restocked?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your policy regarding product satisfaction?",
+      "text": "What is your policy regarding product satisfaction?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Will your customer service assist with product queries?",
+      "text": "Will your customer service assist with product queries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What processes do you have in place for customer feedback?",
+      "text": "What processes do you have in place for customer feedback?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I adjust my preferences within the application?",
+      "text": "How do I adjust my preferences within the application?",
+      "inLanguage": "en"
+    }
+  ]
+}

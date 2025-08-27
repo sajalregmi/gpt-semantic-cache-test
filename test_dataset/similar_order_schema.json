@@ -1,0 +1,3019 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "similar_order.json",
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "sajal regmi"
+    },
+    {
+      "@type": "Person",
+      "name": "chetan phakami pun"
+    }
+  ],
+  "dateModified": "2025-08-27T06:18:01Z",
+  "numberOfItems": 500,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I check the delivery status of my order?",
+      "text": "How can I check the delivery status of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to do to find my tracking number?",
+      "text": "What do I need to do to find my tracking number?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know where my package is right now?",
+      "text": "How do I know where my package is right now?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the estimated time of arrival for my package?",
+      "text": "What is the estimated time of arrival for my package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I modify my shipping address after my order has been placed?",
+      "text": "How can I modify my shipping address after my order has been placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to update my order before it ships?",
+      "text": "Is it possible to update my order before it ships?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When will I receive my tracking information?",
+      "text": "When will I receive my tracking information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order is still processing?",
+      "text": "What should I do if my order is still processing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I cancel an order that I just placed?",
+      "text": "How do I cancel an order that I just placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive a refund if my item is shipped late?",
+      "text": "Can I receive a refund if my item is shipped late?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I haven't received my order confirmation?",
+      "text": "What should I do if I haven't received my order confirmation?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "I changed my mind, can I return an opened item?",
+      "text": "I changed my mind, can I return an opened item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report missing items from my delivery?",
+      "text": "How do I report missing items from my delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package arrives damaged?",
+      "text": "What should I do if my package arrives damaged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any way to track my return?",
+      "text": "Is there any way to track my return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long does shipping usually take for international orders?",
+      "text": "How long does shipping usually take for international orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my subscription shipping address?",
+      "text": "Can I change my subscription shipping address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my item is backordered?",
+      "text": "What happens if my item is backordered?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my refund after returning an item?",
+      "text": "How do I verify my refund after returning an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine multiple orders into one shipment?",
+      "text": "Can I combine multiple orders into one shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check if my order hasn't moved in the tracking system?",
+      "text": "What should I check if my order hasn't moved in the tracking system?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I escalate an issue with my delivery?",
+      "text": "How do I escalate an issue with my delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the procedures for shipping fragile items?",
+      "text": "What are the procedures for shipping fragile items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact customer service regarding my order?",
+      "text": "How do I contact customer service regarding my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What if I forgot to apply a discount to my order?",
+      "text": "What if I forgot to apply a discount to my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track my order if I lost my confirmation email?",
+      "text": "How do I track my order if I lost my confirmation email?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my package is lost in transit?",
+      "text": "What happens if my package is lost in transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I have my order shipped to a different country?",
+      "text": "Can I have my order shipped to a different country?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the rules for exchanging items?",
+      "text": "What are the rules for exchanging items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make sure my item is delivered securely?",
+      "text": "How do I make sure my item is delivered securely?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any way to expedite my order shipping?",
+      "text": "Is there any way to expedite my order shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the shipping options for perishable goods?",
+      "text": "What are the shipping options for perishable goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a live update regarding my shipment?",
+      "text": "Can I get a live update regarding my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order status says Pending for too long?",
+      "text": "What should I do if my order status says Pending for too long?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I cancel my subscription to a service?",
+      "text": "How do I cancel my subscription to a service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the procedures for returning items bought during a sale?",
+      "text": "What are the procedures for returning items bought during a sale?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my order is flagged for review?",
+      "text": "What happens if my order is flagged for review?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order is shipped together?",
+      "text": "How do I ensure my order is shipped together?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the shipping carrier for my order?",
+      "text": "Can I change the shipping carrier for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I determine if my item qualifies for a return?",
+      "text": "How do I determine if my item qualifies for a return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation do I need to provide for a return?",
+      "text": "What documentation do I need to provide for a return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long will it take for my refund to process?",
+      "text": "How long will it take for my refund to process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if the tracking number isn't working?",
+      "text": "What should I do if the tracking number isn't working?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I get a shipping estimate for my order?",
+      "text": "How can I get a shipping estimate for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the normal timeframes for delivery?",
+      "text": "What are the normal timeframes for delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I inquire about shipping options for oversized items?",
+      "text": "How can I inquire about shipping options for oversized items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact support for issues about my shipment?",
+      "text": "How do I contact support for issues about my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for free return shipping?",
+      "text": "What options do I have for free return shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order is eligible for discount shipping?",
+      "text": "How do I ensure my order is eligible for discount shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my delivery address was entered incorrectly?",
+      "text": "What happens if my delivery address was entered incorrectly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my order has shipped?",
+      "text": "How do I verify my order has shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to cancel an order after it has shipped?",
+      "text": "Is it possible to cancel an order after it has shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if there are any delivery fees for my order?",
+      "text": "How do I check if there are any delivery fees for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I accidentally ordered the wrong item?",
+      "text": "What should I do if I accidentally ordered the wrong item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my package if it was sent internationally?",
+      "text": "How can I track my package if it was sent internationally?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order is marked as 'Delivered' but I haven't received it?",
+      "text": "What should I do if my order is marked as 'Delivered' but I haven't received it?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the policies regarding damaged goods?",
+      "text": "What are the policies regarding damaged goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the status of an international shipment?",
+      "text": "How can I check the status of an international shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long can I usually expect delivery on items bought online?",
+      "text": "How long can I usually expect delivery on items bought online?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my shipping confirmation hasn't arrived?",
+      "text": "What do I do if my shipping confirmation hasn't arrived?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I receive updates about my order status?",
+      "text": "How can I receive updates about my order status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I organize shipping for multiple gift items?",
+      "text": "How do I organize shipping for multiple gift items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common delays I should watch out for?",
+      "text": "What are the common delays I should watch out for?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit a claim for a lost shipment?",
+      "text": "How do I submit a claim for a lost shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I want a refund for shipping costs?",
+      "text": "What steps should I take if I want a refund for shipping costs?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my order has been canceled?",
+      "text": "How do I confirm that my order has been canceled?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to do if my order is stuck in processing?",
+      "text": "What do I need to do if my order is stuck in processing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What can I do if the tracking widget isn’t updating?",
+      "text": "What can I do if the tracking widget isn’t updating?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if I want to return my order?",
+      "text": "What steps do I take if I want to return my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact the shipping carrier directly?",
+      "text": "How do I contact the shipping carrier directly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my items are returned in good condition?",
+      "text": "How can I ensure my items are returned in good condition?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the guidelines for shipping to an APO/FPO address?",
+      "text": "What are the guidelines for shipping to an APO/FPO address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if promotional shipping codes are still valid?",
+      "text": "How do I check if promotional shipping codes are still valid?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What if I have an issue with my shipping invoice?",
+      "text": "What if I have an issue with my shipping invoice?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I communicate special instructions for my order?",
+      "text": "How do I communicate special instructions for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the shipping restrictions for large items?",
+      "text": "What are the shipping restrictions for large items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find my order ID to track my shipment?",
+      "text": "How can I find my order ID to track my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order includes an item that is no longer available?",
+      "text": "What do I do if my order includes an item that is no longer available?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I resolve a shipping discrepancy?",
+      "text": "How do I resolve a shipping discrepancy?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I track my return shipment without a tracking number?",
+      "text": "Can I track my return shipment without a tracking number?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I follow to ensure timely delivery during busy seasons?",
+      "text": "What steps do I follow to ensure timely delivery during busy seasons?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my refund was processed?",
+      "text": "How do I confirm that my refund was processed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check if my order status hasn't been updated in days?",
+      "text": "What should I check if my order status hasn't been updated in days?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I request a specific delivery date for my order?",
+      "text": "Can I request a specific delivery date for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the guidelines for shipping dangerous goods?",
+      "text": "What are the guidelines for shipping dangerous goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact support regarding issues with deliveries?",
+      "text": "How do I contact support regarding issues with deliveries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I expect if my parcel is stuck in customs?",
+      "text": "What should I expect if my parcel is stuck in customs?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure I am charged correctly for shipping by the seller?",
+      "text": "How can I ensure I am charged correctly for shipping by the seller?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order lacks a tracking number after a few days?",
+      "text": "What should I do if my order lacks a tracking number after a few days?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine shipping for different items in one order?",
+      "text": "Can I combine shipping for different items in one order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order can be shipped to my area?",
+      "text": "How do I ensure my order can be shipped to my area?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What difficulties might I face when shipping to international addresses?",
+      "text": "What difficulties might I face when shipping to international addresses?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I improve my chances of receiving a prompt refund?",
+      "text": "How can I improve my chances of receiving a prompt refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow up on my order if it hasn't shipped?",
+      "text": "How do I follow up on my order if it hasn't shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my refund is not issued within the expected timeline?",
+      "text": "What happens if my refund is not issued within the expected timeline?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my package is delayed at a distribution center?",
+      "text": "What do I do if my package is delayed at a distribution center?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm that my order is packed securely for shipment?",
+      "text": "How can I confirm that my order is packed securely for shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the protocols for dealing with incorrect shipping charges?",
+      "text": "What are the protocols for dealing with incorrect shipping charges?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How does local delivery differ from standard shipping?",
+      "text": "How does local delivery differ from standard shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive updates about potential shipping delays?",
+      "text": "How do I receive updates about potential shipping delays?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I receive the wrong order?",
+      "text": "What steps should I take if I receive the wrong order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about delivery options before checking out?",
+      "text": "How do I inquire about delivery options before checking out?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure that my package arrives on time?",
+      "text": "How can I ensure that my package arrives on time?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cut-off time for same-day shipping?",
+      "text": "What is the cut-off time for same-day shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle unexpected shipping charges on my bill?",
+      "text": "How do I handle unexpected shipping charges on my bill?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure I receive tracking updates throughout delivery?",
+      "text": "How can I ensure I receive tracking updates throughout delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common shipping fees for my order type?",
+      "text": "What are the common shipping fees for my order type?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my parcel is lost in transit?",
+      "text": "What should I do if my parcel is lost in transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your policy on delivery errors or misdelivery?",
+      "text": "What is your policy on delivery errors or misdelivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I change my order to priority shipping?",
+      "text": "How can I change my order to priority shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my item was sent to an incorrect address?",
+      "text": "What should I do if my item was sent to an incorrect address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I check my order's shipping status through your app?",
+      "text": "Can I check my order's shipping status through your app?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I missed my delivery window?",
+      "text": "What should I do if I missed my delivery window?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request returns for items that were misdelivered?",
+      "text": "How do I request returns for items that were misdelivered?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the requirements for collecting packages at postal centers?",
+      "text": "What are the requirements for collecting packages at postal centers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure My order is delivered securely?",
+      "text": "How do I ensure My order is delivered securely?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I specify a delivery time when placing my order?",
+      "text": "Can I specify a delivery time when placing my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about tracking an order that hasn't shipped yet?",
+      "text": "How do I inquire about tracking an order that hasn't shipped yet?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my item does not match the description?",
+      "text": "What happens if my item does not match the description?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I follow up after returning an item?",
+      "text": "How can I follow up after returning an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options are available for shipping multiple gifts?",
+      "text": "What options are available for shipping multiple gifts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need if I want to include a message with my gift shipment?",
+      "text": "What do I need if I want to include a message with my gift shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I dispute a shipping charge that seems incorrect?",
+      "text": "How do I dispute a shipping charge that seems incorrect?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I appeal if my tracking number is inactive?",
+      "text": "How do I appeal if my tracking number is inactive?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my shipping charges were wrong?",
+      "text": "What should I do if my shipping charges were wrong?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I pack a return shipment for fragile items?",
+      "text": "How do I pack a return shipment for fragile items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What advantages do expedited shipping options provide?",
+      "text": "What advantages do expedited shipping options provide?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm the item was shipped to the correct address?",
+      "text": "How can I confirm the item was shipped to the correct address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What notifications can I set up regarding my order status?",
+      "text": "What notifications can I set up regarding my order status?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if I'm eligible for express delivery?",
+      "text": "How do I check if I'm eligible for express delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I provide to customer service during shipping inquiries?",
+      "text": "What should I provide to customer service during shipping inquiries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my return to make sure it’s processed?",
+      "text": "How can I track my return to make sure it’s processed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle issues concerning customs fees?",
+      "text": "How do I handle issues concerning customs fees?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my payment details after my order has been placed?",
+      "text": "Can I change my payment details after my order has been placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my shipping method does not seem correct?",
+      "text": "What do I do if my shipping method does not seem correct?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What so I do if I need to cancel and re-order due to mistakes?",
+      "text": "What so I do if I need to cancel and re-order due to mistakes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are reasonable shipping times for my order type?",
+      "text": "What are reasonable shipping times for my order type?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle a package that needs to be rerouted?",
+      "text": "How do I handle a package that needs to be rerouted?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I do not recognize a shipping charge?",
+      "text": "What should I do if I do not recognize a shipping charge?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report lost items with shipping carriers?",
+      "text": "How do I report lost items with shipping carriers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow for shipping damaged or faulty goods?",
+      "text": "What steps should I follow for shipping damaged or faulty goods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure all items in my order are evaluated for shipping?",
+      "text": "How do I ensure all items in my order are evaluated for shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track my return if I used a different carrier?",
+      "text": "How do I track my return if I used a different carrier?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should I take when shipping food items?",
+      "text": "What precautions should I take when shipping food items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I share feedback regarding my shipping experience?",
+      "text": "How do I share feedback regarding my shipping experience?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my order is delivered securely and on time?",
+      "text": "How can I ensure my order is delivered securely and on time?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I inquire about my shipping fees before completing a purchase?",
+      "text": "How can I inquire about my shipping fees before completing a purchase?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the available methods for tracking my package?",
+      "text": "What are the available methods for tracking my package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my package gets held up due to verification?",
+      "text": "What happens if my package gets held up due to verification?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my order will arrive on the expected date?",
+      "text": "How do I know if my order will arrive on the expected date?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What details should be present on my shipping label?",
+      "text": "What details should be present on my shipping label?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my package qualifies for priority handling?",
+      "text": "How do I check if my package qualifies for priority handling?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify whether I'm eligible for a shipping promotion?",
+      "text": "How do I verify whether I'm eligible for a shipping promotion?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the guidelines for selecting carriers for shipments?",
+      "text": "What are the guidelines for selecting carriers for shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report shipping errors to customer service?",
+      "text": "How do I report shipping errors to customer service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I track items separately if ordered in one shipment?",
+      "text": "Can I track items separately if ordered in one shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my items are eligible for shipping discounts?",
+      "text": "How can I ensure my items are eligible for shipping discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I receive someone else's order?",
+      "text": "What should I do if I receive someone else's order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check for additional charges after my order is placed?",
+      "text": "How do I check for additional charges after my order is placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if my order ships but items are missing?",
+      "text": "What steps should I take if my order ships but items are missing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get updates on my order if it hasn’t shipped after several days?",
+      "text": "How do I get updates on my order if it hasn’t shipped after several days?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include in my request for a shipping estimate?",
+      "text": "What should I include in my request for a shipping estimate?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ask for updates on a return shipment?",
+      "text": "How can I ask for updates on a return shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm my order will arrive by a specific date?",
+      "text": "How do I confirm my order will arrive by a specific date?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if I need to resend an order?",
+      "text": "What steps do I take if I need to resend an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track a package sent as a gift?",
+      "text": "How can I track a package sent as a gift?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long can I expect my order to take to reach me?",
+      "text": "How long can I expect my order to take to reach me?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are my options if I cannot pick up my order?",
+      "text": "What are my options if I cannot pick up my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my order was processed correctly?",
+      "text": "How do I confirm that my order was processed correctly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my package delivery date is changed?",
+      "text": "What happens if my package delivery date is changed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I make sure my refunds are processed correctly?",
+      "text": "How can I make sure my refunds are processed correctly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to avoid shipping errors in the future?",
+      "text": "What steps do I take to avoid shipping errors in the future?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I communicate with customer service regarding my order delay?",
+      "text": "How do I communicate with customer service regarding my order delay?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide an update on my shipment?",
+      "text": "What information do I need to provide an update on my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What requirements do I need to fulfill for expedited returns?",
+      "text": "What requirements do I need to fulfill for expedited returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure timely processing for invoices related to shipping?",
+      "text": "How do I ensure timely processing for invoices related to shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I resolve issues concerning delayed refunds?",
+      "text": "How do I resolve issues concerning delayed refunds?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines do I follow for holiday shipping?",
+      "text": "What guidelines do I follow for holiday shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to secure my shipping information?",
+      "text": "What steps do I take to secure my shipping information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I evaluate the shipping policies of different retailers?",
+      "text": "How can I evaluate the shipping policies of different retailers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my shipping and billing address match?",
+      "text": "How do I ensure my shipping and billing address match?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package is labeled as missing in transit?",
+      "text": "What should I do if my package is labeled as missing in transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm whether my order is ready for shipment?",
+      "text": "How do I confirm whether my order is ready for shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I follow up on my order if it hasn't arrived yet?",
+      "text": "How can I follow up on my order if it hasn't arrived yet?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What policies are in place for returning promotional items?",
+      "text": "What policies are in place for returning promotional items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle changes to my delivery preferences?",
+      "text": "How do I handle changes to my delivery preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What practices must I follow when handling items that are being returned?",
+      "text": "What practices must I follow when handling items that are being returned?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prepare items for a successful shipping return?",
+      "text": "How do I prepare items for a successful shipping return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to check if I forgot my login credentials for tracking?",
+      "text": "What do I need to check if I forgot my login credentials for tracking?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I fight against unauthorized shipping charges?",
+      "text": "How do I fight against unauthorized shipping charges?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my order if I don’t have online access?",
+      "text": "How can I track my order if I don’t have online access?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my package is in transit for too long?",
+      "text": "What do I do if my package is in transit for too long?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get notified about the arrival of my shipped items?",
+      "text": "How do I get notified about the arrival of my shipped items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to expedite my return process?",
+      "text": "What steps do I take to expedite my return process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle issues related to shipping hazardous materials?",
+      "text": "How do I handle issues related to shipping hazardous materials?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my payment details are incorrect during shipping?",
+      "text": "What happens if my payment details are incorrect during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I save my shipping preferences for future orders?",
+      "text": "Can I save my shipping preferences for future orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for clarifying discrepancies in shipments?",
+      "text": "What options do I have for clarifying discrepancies in shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What assistance can I get regarding special delivery requests?",
+      "text": "What assistance can I get regarding special delivery requests?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I review my order shipment history?",
+      "text": "How can I review my order shipment history?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my order is shipped and I decide to cancel it?",
+      "text": "What happens if my order is shipped and I decide to cancel it?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check when verifying shipping for heavy items?",
+      "text": "What should I check when verifying shipping for heavy items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I return an item if I lost my receipt?",
+      "text": "How do I return an item if I lost my receipt?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I update my shipping address on a placed order?",
+      "text": "How can I update my shipping address on a placed order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the procedures for dealing with shipping insurance?",
+      "text": "What are the procedures for dealing with shipping insurance?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow up with a shipping complaint?",
+      "text": "How do I follow up with a shipping complaint?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What can I do if my tracking information isn't accurate?",
+      "text": "What can I do if my tracking information isn't accurate?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I prepare for my package pickup?",
+      "text": "What should I prepare for my package pickup?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "When can I expect my refund after canceling an order?",
+      "text": "When can I expect my refund after canceling an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm that my shipping method is correct?",
+      "text": "How can I confirm that my shipping method is correct?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my package can be delivered to my workplace?",
+      "text": "How do I check if my package can be delivered to my workplace?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include with my order when it is being returned?",
+      "text": "What should I include with my order when it is being returned?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I begin the process for returning an unwanted gift?",
+      "text": "How do I begin the process for returning an unwanted gift?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What factors influence shipping costs for my order?",
+      "text": "What factors influence shipping costs for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order is shipped to the right carrier?",
+      "text": "How do I ensure my order is shipped to the right carrier?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the requirements if my order was partly fulfilled?",
+      "text": "What are the requirements if my order was partly fulfilled?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I've left important information out of my order?",
+      "text": "What should I do if I've left important information out of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my package via a third-party carrier?",
+      "text": "How can I track my package via a third-party carrier?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage shipping costs for my returns?",
+      "text": "How do I manage shipping costs for my returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What measures can I take to ensure my shipment arrives on time?",
+      "text": "What measures can I take to ensure my shipment arrives on time?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I determine if my item is eligible for free shipping?",
+      "text": "How do I determine if my item is eligible for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I resolve issues with a defective product during shipping?",
+      "text": "How do I resolve issues with a defective product during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find out whether my order is subject to import taxes?",
+      "text": "How do I find out whether my order is subject to import taxes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for handling shipping complaints?",
+      "text": "What is the process for handling shipping complaints?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I skip a delivery if my order has already been shipped?",
+      "text": "How can I skip a delivery if my order has already been shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the options for changing the delivery carrier post-order?",
+      "text": "What are the options for changing the delivery carrier post-order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track a shipment if I don't have my order number?",
+      "text": "How do I track a shipment if I don't have my order number?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I verify if I suspect an order is delivered incorrectly?",
+      "text": "What should I verify if I suspect an order is delivered incorrectly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow if my order was placed in error?",
+      "text": "What steps should I follow if my order was placed in error?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my items are packaged securely for shipping?",
+      "text": "How do I ensure my items are packaged securely for shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include in my request for expedited shipping?",
+      "text": "What should I include in my request for expedited shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find details on shipping restrictions?",
+      "text": "How can I find details on shipping restrictions?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my item is lost during shipping?",
+      "text": "What should I do if my item is lost during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive shipping updates about my return?",
+      "text": "How do I receive shipping updates about my return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure items are shipped together whenever possible?",
+      "text": "How can I ensure items are shipped together whenever possible?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to check before returning an order?",
+      "text": "What do I need to check before returning an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a quote for shipping before placing an order?",
+      "text": "Can I get a quote for shipping before placing an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact support for tracking information?",
+      "text": "How do I contact support for tracking information?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my order after I receive shipping confirmation?",
+      "text": "Can I change my order after I receive shipping confirmation?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package shows no progress?",
+      "text": "What should I do if my package shows no progress?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage shipping for promotional offers?",
+      "text": "How do I manage shipping for promotional offers?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order is shipped in compliance with regulations?",
+      "text": "How do I ensure my order is shipped in compliance with regulations?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures should I follow for returning items?",
+      "text": "What procedures should I follow for returning items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long will shipping take if I'm ordering from another country?",
+      "text": "How long will shipping take if I'm ordering from another country?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the considerations for expedited shipping?",
+      "text": "What are the considerations for expedited shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact customer service for international shipping?",
+      "text": "How do I contact customer service for international shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I keep track of my package throughout the delivery process?",
+      "text": "How can I keep track of my package throughout the delivery process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my shipping label is damaged?",
+      "text": "What should I do if my shipping label is damaged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for rerouting my order?",
+      "text": "What options do I have for rerouting my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my shipping details are secure?",
+      "text": "How do I ensure my shipping details are secure?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow if I need my order returned quickly?",
+      "text": "What steps should I follow if I need my order returned quickly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I inquire about delivery times during peak seasons?",
+      "text": "How can I inquire about delivery times during peak seasons?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What information do I provide if I wish to dispute a shipping charge?",
+      "text": "What information do I provide if I wish to dispute a shipping charge?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track multiple items in one shipment?",
+      "text": "How do I track multiple items in one shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options are available if I want to extend my return window?",
+      "text": "What options are available if I want to extend my return window?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track an order I did not place?",
+      "text": "How do I track an order I did not place?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my order has been shipped to the right location?",
+      "text": "How do I verify my order has been shipped to the right location?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures should I follow when receiving a package?",
+      "text": "What procedures should I follow when receiving a package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What help is available during busy shipping seasons?",
+      "text": "What help is available during busy shipping seasons?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I manage multiple orders if they arrive separately?",
+      "text": "How can I manage multiple orders if they arrive separately?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about shipping promotional items?",
+      "text": "What should I know about shipping promotional items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if I want to track my order by phone?",
+      "text": "What steps do I take if I want to track my order by phone?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my package is properly insured during shipping?",
+      "text": "How do I confirm that my package is properly insured during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order is returned because of address issues?",
+      "text": "What should I do if my order is returned because of address issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check the shipping status of an item that was backordered?",
+      "text": "How do I check the shipping status of an item that was backordered?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the policies for shipping gifts during holidays?",
+      "text": "What are the policies for shipping gifts during holidays?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my package is delivered on time and securely?",
+      "text": "How do I ensure my package is delivered on time and securely?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I contact customer service for if my order is delayed?",
+      "text": "What do I contact customer service for if my order is delayed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What support can I receive for mistakes in shipment?",
+      "text": "What support can I receive for mistakes in shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track the shipping process step by step?",
+      "text": "How can I track the shipping process step by step?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take to change my order if it hasn’t shipped yet?",
+      "text": "What steps do I take to change my order if it hasn’t shipped yet?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges should I prepare for when shipping internationally?",
+      "text": "What challenges should I prepare for when shipping internationally?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle an item that was shipped incorrectly?",
+      "text": "How do I handle an item that was shipped incorrectly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What resources are available for understanding shipping modes?",
+      "text": "What resources are available for understanding shipping modes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What feedback methods do you provide for shipping experiences?",
+      "text": "What feedback methods do you provide for shipping experiences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive shipping notifications via text or email?",
+      "text": "How do I receive shipping notifications via text or email?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation do I need for shipping heavy items?",
+      "text": "What documentation do I need for shipping heavy items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check whether my delivery address is correct?",
+      "text": "How do I check whether my delivery address is correct?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow up on a request for a missing shipment?",
+      "text": "How do I follow up on a request for a missing shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if my package is delayed without reason?",
+      "text": "What steps should I take if my package is delayed without reason?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I want to combine shipping options for an order?",
+      "text": "What should I do if I want to combine shipping options for an order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm the estimated delivery dates for my order?",
+      "text": "How do I confirm the estimated delivery dates for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I send my return shipment to a different warehouse?",
+      "text": "Can I send my return shipment to a different warehouse?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the rules for shipping hazardous materials internationally?",
+      "text": "What are the rules for shipping hazardous materials internationally?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to ensure customs clearance for my shipment?",
+      "text": "What do I need to ensure customs clearance for my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage communication about my shipping preferences?",
+      "text": "How do I manage communication about my shipping preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package tracking indicates it is stuck?",
+      "text": "What should I do if my package tracking indicates it is stuck?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to know about the shipping process during peak seasons?",
+      "text": "What do I need to know about the shipping process during peak seasons?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I deal with changes in shipping fees?",
+      "text": "How do I deal with changes in shipping fees?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to ship goods internationally?",
+      "text": "How long does it typically take to ship goods internationally?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines are followed for return shipments?",
+      "text": "What guidelines are followed for return shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check when my order is marked as 'Returned'?",
+      "text": "What should I check when my order is marked as 'Returned'?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track a package sent by a third party?",
+      "text": "How do I track a package sent by a third party?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify my shipping details if I’m unsure?",
+      "text": "How can I verify my shipping details if I’m unsure?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my item is shipped to the wrong address?",
+      "text": "What happens if my item is shipped to the wrong address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What additional services do you provide for shipping?",
+      "text": "What additional services do you provide for shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my package is handled with care during transit?",
+      "text": "How can I ensure my package is handled with care during transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for expediting shipping during the holidays?",
+      "text": "What options do I have for expediting shipping during the holidays?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if my order status remains unchanged?",
+      "text": "What steps should I take if my order status remains unchanged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm that my refund has been successfully processed?",
+      "text": "How do I confirm that my refund has been successfully processed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your policy on returns for clearance items?",
+      "text": "What is your policy on returns for clearance items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my package is received unopened but not recognized?",
+      "text": "What do I do if my package is received unopened but not recognized?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I streamline my shipping arrangements for future orders?",
+      "text": "How do I streamline my shipping arrangements for future orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I validate that an item was shipped successfully?",
+      "text": "How do I validate that an item was shipped successfully?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should I take while returning fragile items?",
+      "text": "What precautions should I take while returning fragile items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions are necessary if my delivered package is incorrect?",
+      "text": "What actions are necessary if my delivered package is incorrect?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I make requests for specific shipping methods?",
+      "text": "How can I make requests for specific shipping methods?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation is required for a successful return?",
+      "text": "What documentation is required for a successful return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my return shipment is not received?",
+      "text": "What happens if my return shipment is not received?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I streamline my shipping processes for bulk orders?",
+      "text": "How can I streamline my shipping processes for bulk orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have if an item is missing from my order?",
+      "text": "What options do I have if an item is missing from my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I notice discrepancies in shipping charges?",
+      "text": "What steps should I take if I notice discrepancies in shipping charges?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my order is shipped to the correct address?",
+      "text": "How can I ensure my order is shipped to the correct address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I have items that need to be shipped separately?",
+      "text": "What should I do if I have items that need to be shipped separately?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long do I typically have to report a shipping issue?",
+      "text": "How long do I typically have to report a shipping issue?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find out more about shipping methods available to my location?",
+      "text": "How can I find out more about shipping methods available to my location?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if I want to return an opened item?",
+      "text": "What steps do I take if I want to return an opened item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request confirmation for a shipment that hasn’t moved?",
+      "text": "How do I request confirmation for a shipment that hasn’t moved?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the requirements for shipping specialized items?",
+      "text": "What are the requirements for shipping specialized items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check when my item was shipped?",
+      "text": "How do I check when my item was shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if my order was canceled during processing?",
+      "text": "What happens if my order was canceled during processing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I choose a specific carrier for my shipment?",
+      "text": "Can I choose a specific carrier for my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order is processed during holiday sales?",
+      "text": "How do I ensure my order is processed during holiday sales?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the recipient of my order after it has been placed?",
+      "text": "Can I change the recipient of my order after it has been placed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if I want to track a local delivery?",
+      "text": "What steps do I take if I want to track a local delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow up on an unresolved shipping complaint?",
+      "text": "How do I follow up on an unresolved shipping complaint?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I get access to my shipping history?",
+      "text": "How can I get access to my shipping history?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I haven't received my refund after returning an item?",
+      "text": "What should I do if I haven't received my refund after returning an item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are involved in shipping hazardous materials?",
+      "text": "What steps are involved in shipping hazardous materials?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I handle connectivity issues when tracking my order?",
+      "text": "How do I handle connectivity issues when tracking my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my shipment is ceased at a checkpoint?",
+      "text": "What should I do if my shipment is ceased at a checkpoint?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation do I need to provide for a successful verification?",
+      "text": "What documentation do I need to provide for a successful verification?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order includes an item that is out of stock during shipping?",
+      "text": "What do I do if my order includes an item that is out of stock during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check if I qualify for express shipping?",
+      "text": "How can I check if I qualify for express shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit a request for a delayed delivery?",
+      "text": "How do I submit a request for a delayed delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take to clarify shipping letter communications?",
+      "text": "What steps should I take to clarify shipping letter communications?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I deal with multiple item returns?",
+      "text": "How do I deal with multiple item returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my order via the company’s app?",
+      "text": "How can I track my order via the company’s app?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for modifying shipping for recurrent items?",
+      "text": "What is the process for modifying shipping for recurrent items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What support do you offer for damaged deliveries?",
+      "text": "What support do you offer for damaged deliveries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my items qualify for free shipping?",
+      "text": "How do I check if my items qualify for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to do for shipping items that require refrigeration?",
+      "text": "What do I need to do for shipping items that require refrigeration?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify that my package was shipped correctly?",
+      "text": "How can I verify that my package was shipped correctly?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What factors do delay shipments?",
+      "text": "What factors do delay shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cut-off time for next-day shipping?",
+      "text": "What is the cut-off time for next-day shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my tracking information shows no progress?",
+      "text": "What should I do if my tracking information shows no progress?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm my private shipment details?",
+      "text": "How do I confirm my private shipment details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the easy steps to returning gifts?",
+      "text": "What are the easy steps to returning gifts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my items arrive at the right time?",
+      "text": "How do I ensure my items arrive at the right time?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I submit a form for a return?",
+      "text": "How can I submit a form for a return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to do if my return shipping label is incorrect?",
+      "text": "What do I need to do if my return shipping label is incorrect?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check if my package shows 'Pending' for too long?",
+      "text": "What should I check if my package shows 'Pending' for too long?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about rerouting my shipped item?",
+      "text": "How do I inquire about rerouting my shipped item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I communicate with my shipping provider?",
+      "text": "How do I communicate with my shipping provider?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines do you follow for shipping cancellations?",
+      "text": "What guidelines do you follow for shipping cancellations?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order status is still 'Processing' after several days?",
+      "text": "What do I do if my order status is still 'Processing' after several days?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get updates about a return I sent?",
+      "text": "How do I get updates about a return I sent?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I prepare for my order to avoid issues?",
+      "text": "What should I prepare for my order to avoid issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow for submitting a shipping suggestion?",
+      "text": "What steps should I follow for submitting a shipping suggestion?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit forms for direct returns?",
+      "text": "How do I submit forms for direct returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I want my package held at a local distribution center?",
+      "text": "What do I do if I want my package held at a local distribution center?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I respond to the shipping carrier if my package is lost?",
+      "text": "How do I respond to the shipping carrier if my package is lost?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my item gets returned due to address issues?",
+      "text": "What do I do if my item gets returned due to address issues?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are my shipping rights as a customer?",
+      "text": "What are my shipping rights as a customer?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure effective communication with the courier service?",
+      "text": "How do I ensure effective communication with the courier service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I take if my order arrives damaged?",
+      "text": "What steps do I take if my order arrives damaged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm if my package is marked as 'Delivered'?",
+      "text": "How do I confirm if my package is marked as 'Delivered'?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I want to cancel an item in my order?",
+      "text": "What should I do if I want to cancel an item in my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I follow up on outstanding refunds for my returns?",
+      "text": "How can I follow up on outstanding refunds for my returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check if my order has not shipped after a week?",
+      "text": "What should I check if my order has not shipped after a week?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about combining shipments for multiple orders?",
+      "text": "How do I inquire about combining shipments for multiple orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report if I received someone else's package?",
+      "text": "How do I report if I received someone else's package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines should I follow for reporting shipping errors?",
+      "text": "What guidelines should I follow for reporting shipping errors?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find information about shipping discounts?",
+      "text": "How can I find information about shipping discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage my shipping details effectively?",
+      "text": "How do I manage my shipping details effectively?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if my order arrives with damaged contents?",
+      "text": "What steps should I take if my order arrives with damaged contents?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have if my package arrives damaged?",
+      "text": "What options do I have if my package arrives damaged?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I communicate changes in shipping details to customer service?",
+      "text": "How do I communicate changes in shipping details to customer service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I verify about my order if it shows 'Cancelled'?",
+      "text": "What should I verify about my order if it shows 'Cancelled'?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to ensure my upright package arrives right?",
+      "text": "What do I need to ensure my upright package arrives right?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my items are processed properly for delivery?",
+      "text": "How can I ensure my items are processed properly for delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about additional fees for returning items?",
+      "text": "What should I know about additional fees for returning items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I follow up with a shipping inquiry for my order?",
+      "text": "How do I follow up with a shipping inquiry for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for my order's shipping preferences?",
+      "text": "What options do I have for my order's shipping preferences?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions can I take regarding items that won’t fit in my mailbox?",
+      "text": "What actions can I take regarding items that won’t fit in my mailbox?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I confirm my package is ready to be shipped?",
+      "text": "How can I confirm my package is ready to be shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I need to ensure accurate shipping documentation?",
+      "text": "What steps do I need to ensure accurate shipping documentation?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What processes do you follow for damaged shipping requests?",
+      "text": "What processes do you follow for damaged shipping requests?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I resolve uncertainty regarding my shipping label?",
+      "text": "How do I resolve uncertainty regarding my shipping label?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I review my order if it has not appeared in my account?",
+      "text": "How do I review my order if it has not appeared in my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I contact customer service for urgent queries?",
+      "text": "How can I contact customer service for urgent queries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What if the item I ordered has different shipping options?",
+      "text": "What if the item I ordered has different shipping options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best practices when shipping during sales?",
+      "text": "What are the best practices when shipping during sales?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I be sure my packages are securely shipped?",
+      "text": "How can I be sure my packages are securely shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I verify regarding billing for shipping costs?",
+      "text": "What should I verify regarding billing for shipping costs?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find my order's history online?",
+      "text": "How can I find my order's history online?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I forget the shipping address on my order?",
+      "text": "What happens if I forget the shipping address on my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package is not delivered on time?",
+      "text": "What should I do if my package is not delivered on time?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the recipient’s name on my order?",
+      "text": "Can I change the recipient’s name on my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I access information about shipping options?",
+      "text": "How do I access information about shipping options?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my delivered package looks suspicious?",
+      "text": "What should I do if my delivered package looks suspicious?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for tracking service updates?",
+      "text": "What options do I have for tracking service updates?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I address any concerns regarding my shipment?",
+      "text": "How do I address any concerns regarding my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if my order is under review?",
+      "text": "What steps should I take if my order is under review?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have if I'm unsatisfied after delivery?",
+      "text": "What options do I have if I'm unsatisfied after delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best practices for large item returns?",
+      "text": "What are the best practices for large item returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my items were shipped as a priority?",
+      "text": "How do I check if my items were shipped as a priority?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What options do I have for next-day shipping?",
+      "text": "What options do I have for next-day shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I track the shipping status of multiple items at once?",
+      "text": "How do I track the shipping status of multiple items at once?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines should I follow when preparing for package delivery?",
+      "text": "What guidelines should I follow when preparing for package delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What if my package is marked 'Attempted Delivery'?",
+      "text": "What if my package is marked 'Attempted Delivery'?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure clear communication when shipping?",
+      "text": "How do I ensure clear communication when shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find out the expected delivery date for my order?",
+      "text": "How do I find out the expected delivery date for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my package has missing parts?",
+      "text": "What should I do if my package has missing parts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get notifications for shipping discounts?",
+      "text": "Can I get notifications for shipping discounts?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I prepare if I need to add items to my order?",
+      "text": "What should I prepare if I need to add items to my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my refund request was received?",
+      "text": "How do I check if my refund request was received?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How long will it take for a return to be processed?",
+      "text": "How long will it take for a return to be processed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know about shipping special order items?",
+      "text": "What should I know about shipping special order items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I receive updates about my return shipment via text?",
+      "text": "Can I receive updates about my return shipment via text?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my package arrives later than expected?",
+      "text": "What do I do if my package arrives later than expected?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage expectations with shipping timelines?",
+      "text": "How do I manage expectations with shipping timelines?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What problems might I encounter when shipping overseas?",
+      "text": "What problems might I encounter when shipping overseas?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I verify my shipping costs before I pay?",
+      "text": "Can I verify my shipping costs before I pay?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I request a cancellation for my order?",
+      "text": "What happens if I request a cancellation for my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I inquire about combining shipping for different items?",
+      "text": "How do I inquire about combining shipping for different items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What actions can I take if my package is damaged in transit?",
+      "text": "What actions can I take if my package is damaged in transit?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm the accuracy of my purchase details?",
+      "text": "How do I confirm the accuracy of my purchase details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I retain my shipping charges if I wish to cancel?",
+      "text": "Can I retain my shipping charges if I wish to cancel?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I effectively submit a dispute about a lost package?",
+      "text": "How can I effectively submit a dispute about a lost package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the standard processing time for shipping?",
+      "text": "What is the standard processing time for shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I immediately get assistance for a delivery problem?",
+      "text": "How can I immediately get assistance for a delivery problem?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I be aware of when returning an opened product?",
+      "text": "What should I be aware of when returning an opened product?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my shipping address is linked to my account?",
+      "text": "How do I check if my shipping address is linked to my account?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps can I take to find my tracking number?",
+      "text": "What steps can I take to find my tracking number?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my order arrives at a delivery service?",
+      "text": "How do I ensure my order arrives at a delivery service?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm my order was successfully updated?",
+      "text": "How do I confirm my order was successfully updated?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if there are discrepancies regarding my cargo?",
+      "text": "What do I do if there are discrepancies regarding my cargo?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track the processing time of my item?",
+      "text": "How can I track the processing time of my item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I follow if I want to combine shipping on two items?",
+      "text": "What should I follow if I want to combine shipping on two items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should I take when shipping liquids?",
+      "text": "What precautions should I take when shipping liquids?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I extend my shipping options for a different address?",
+      "text": "Can I extend my shipping options for a different address?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to check if my order was split into multiple shipments?",
+      "text": "What do I need to check if my order was split into multiple shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to prepare for package delivery?",
+      "text": "What is the best way to prepare for package delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if I accidentally order twice?",
+      "text": "What do I do if I accidentally order twice?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track shipping updates for an important order?",
+      "text": "How can I track shipping updates for an important order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What is your policy regarding missing package claims?",
+      "text": "What is your policy regarding missing package claims?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify if my order has been clearly shipped?",
+      "text": "How do I verify if my order has been clearly shipped?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include with my return if needed?",
+      "text": "What should I include with my return if needed?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check if I am due a refund for shipping costs?",
+      "text": "How can I check if I am due a refund for shipping costs?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What guidelines do I need to follow for international returns?",
+      "text": "What guidelines do I need to follow for international returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I avoid mistakes in my shipping details?",
+      "text": "How do I avoid mistakes in my shipping details?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit a formal complaint about missing items?",
+      "text": "How do I submit a formal complaint about missing items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I follow if I require a refund for shipping?",
+      "text": "What steps should I follow if I require a refund for shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make sure my items are packed securely?",
+      "text": "How do I make sure my items are packed securely?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What can I do if my package shows delivery, but I haven't received it?",
+      "text": "What can I do if my package shows delivery, but I haven't received it?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm the shipping status of my order?",
+      "text": "How do I confirm the shipping status of my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my order was shipped without a tracking number?",
+      "text": "What should I do if my order was shipped without a tracking number?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure quick processing for my return?",
+      "text": "How can I ensure quick processing for my return?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What processes should I expect if I request an exchange?",
+      "text": "What processes should I expect if I request an exchange?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What additional considerations should I have for holiday shipments?",
+      "text": "What additional considerations should I have for holiday shipments?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I request that my package be held for pickup?",
+      "text": "Can I request that my package be held for pickup?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find out if my order is eligible for free shipping?",
+      "text": "How do I find out if my order is eligible for free shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the shipping options available for fragile items?",
+      "text": "What are the shipping options available for fragile items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I express my concerns about shipping quality?",
+      "text": "How can I express my concerns about shipping quality?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prepare an order for store pick-up?",
+      "text": "How do I prepare an order for store pick-up?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure smooth shipping for my items?",
+      "text": "How do I ensure smooth shipping for my items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request updates if my order tracking isn’t moving?",
+      "text": "How do I request updates if my order tracking isn’t moving?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I consider when shipping multiple items?",
+      "text": "What should I consider when shipping multiple items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage shipping preferences between orders?",
+      "text": "How do I manage shipping preferences between orders?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should I take if I want to opt out of a shipping subscription?",
+      "text": "What steps should I take if I want to opt out of a shipping subscription?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What contact information do I need for shipping inquiries?",
+      "text": "What contact information do I need for shipping inquiries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What procedures are in place for shipping disputes?",
+      "text": "What procedures are in place for shipping disputes?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track package delivery times?",
+      "text": "How can I track package delivery times?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check to confirm the accuracy of a tracking link?",
+      "text": "What should I check to confirm the accuracy of a tracking link?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I do if my order has multiple backorder items?",
+      "text": "What do I do if my order has multiple backorder items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I expedite processing for my returns?",
+      "text": "How do I expedite processing for my returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I verify when my return package is due?",
+      "text": "How can I verify when my return package is due?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What are the rules around packaging containers for heavy items?",
+      "text": "What are the rules around packaging containers for heavy items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What do I need to know regarding shipping confirmations?",
+      "text": "What do I need to know regarding shipping confirmations?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my package is sent with priority shipping?",
+      "text": "How can I ensure my package is sent with priority shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do I follow if I need to return an undeliverable package?",
+      "text": "What steps do I follow if I need to return an undeliverable package?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if my product is still under warranty for returns?",
+      "text": "How do I check if my product is still under warranty for returns?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What remedies are available for damaged goods during shipping?",
+      "text": "What remedies are available for damaged goods during shipping?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I make sure the shipping address is correct before finalizing?",
+      "text": "How do I make sure the shipping address is correct before finalizing?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What steps can I take if I want to track my package from start to finish?",
+      "text": "What steps can I take if I want to track my package from start to finish?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit feedback concerning my order?",
+      "text": "How do I submit feedback concerning my order?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of packaging will be used for my delivery?",
+      "text": "What kind of packaging will be used for my delivery?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I initiate returns for purchased items?",
+      "text": "How do I initiate returns for purchased items?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for my refund request?",
+      "text": "What information do I need to provide for my refund request?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I expect from the shipping process?",
+      "text": "What should I expect from the shipping process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How can I keep track of items shipped back for refund?",
+      "text": "How can I keep track of items shipped back for refund?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I include with my return request for a defective item?",
+      "text": "What should I include with my return request for a defective item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I report lost shipping items effectively?",
+      "text": "How do I report lost shipping items effectively?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if faulty items are included in my shipment?",
+      "text": "What happens if faulty items are included in my shipment?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What relevant details should I provide for shipping inquiries?",
+      "text": "What relevant details should I provide for shipping inquiries?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "Can I initiate a pickup for my return item?",
+      "text": "Can I initiate a pickup for my return item?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I maintain my shipping details to avoid errors?",
+      "text": "How do I maintain my shipping details to avoid errors?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "What should I prep for during the item inspection process?",
+      "text": "What should I prep for during the item inspection process?",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Question",
+      "name": "How do I confirm my items are packaged correctly?",
+      "text": "How do I confirm my items are packaged correctly?",
+      "inLanguage": "en"
+    }
+  ]
+}
