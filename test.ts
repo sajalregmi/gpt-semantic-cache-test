@@ -5,11 +5,10 @@ import { API } from './api';
 
 dotenv.config()
 
-import data from './test_dataset/customer_qa.json' with {type: "json"};
-import prev from './test_dataset/similar_customer.json' with {type: "json"};
+import data from './test_dataset/customer_qa_schema.json' with {type: "json"};
+import prev from './test_dataset/similar_customer_schema.json' with {type: "json"};
 
-console.log(data.questions.length)
-console.log(prev.questions.length)
+
 
 async function main() {
   
@@ -47,8 +46,8 @@ async function main() {
   let arr = 0
 
 
-  for (const item of prev.questions) {
-    const response = await cache.query(item.question,context)
+  for (const item of prev.mainEntity) {
+    const response = await cache.query(item.text,context)
 
   }
   // for (const query of queries) {
